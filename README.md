@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kit</h1>
-<h3 align="center">I simple DevOps Engineer repping El Salvador City 😎</h3>
+<h3 align="center">I am just a simple DevOps Engineer repping El Salvador City 😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamanakithub&label=Profile%20views&color=0e75b6&style=flat" alt="gamanakithub" /> </p>
 
