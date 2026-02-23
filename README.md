@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:gamanakeith@gmail.com">📫 gamanakeith@gmail.com</a> |
-  <a href="https://linkedin.com/in/keithgamana" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/keith-gamana-8171b925a" target="_blank">LinkedIn</a>
 </p>
 
 ---
